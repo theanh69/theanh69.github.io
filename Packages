@@ -1,8 +1,8 @@
 Package: com.theanh69.lqm
 Architecture: iphoneos-arm
-Version: 1.32.1.4
+Version: 1.0
 Section: Tweaks
-Maintainer: Thearmking
+Maintainer: theanh69
 Depends: mobilesubstrate
 Filename: ./debfiles/com.theanh69.lqm.deb
 Size: 162600
@@ -11,15 +11,15 @@ SHA1: 26b9bf661ef69c5d8b4e5f485074e66c5193493e
 SHA256: 9884caf54c8db6bb2aa3a729028f89b511daf328d01dbb1a4aa69870de48b7d5
 SHA512: 35179543727f70593452efa708dbb4c0c2b8b44a4be5308c6142d5f82f3269f5ee1f2e1bfe4ec26bf5f4836a09fc9e969a1c497e78cdb611609e25aa98fc9595
 Homepage: http://youtube.com/theanhofficial69
-Description: Hoạt động trên iOS11 - 12 - 13
+Description: Hack version 1.32.1.4 Hoạt động trên iOS11 - 12 - 13
 Name: Hack Liên Quân Mobile
-Author: Thearmking
+Author: theanh69
 
 Package: com.theanh69.pubgglobal
 Architecture: iphoneos-arm
-Version: 0.15.0
+Version: 1.0
 Section: Tweaks
-Maintainer: busmanl30
+Maintainer: theanh69
 Depends: mobilesubstrate
 Filename: ./debfiles/com.theanh69.pubgglobal.deb
 Size: 145548
@@ -28,15 +28,15 @@ SHA1: 1a48dd3fe3804bc453d157b0df52326cabc1c81d
 SHA256: c0cd5ed56792ccd20c232cbc7dddaadbf84d985b2cbf3f292dc40a4c8bbb8903
 SHA512: 83cc7236eacc081199df5a6c1519e3b6e09319f1074584f1c0ed0fb00a734b4f96b39a026c52ece09c4eaa4b527aa49cbe4bd01b0cf2da5e26da72ef536c31c9
 Homepage: http://youtube.com/theanhofficial69
-Description: Hoạt động trên iOS11 - 12 - 13
+Description: Hack version 0.15.0 Hoạt động trên iOS11 - 12 - 13
 Name: Hack PUBG Mobile Global
-Author: busmanl30
+Author: theanh69
 
 Package: com.theanh69.mbllvng
 Architecture: iphoneos-arm
-Version: 1.4.28
+Version: 1.0
 Section: Tweaks
-Maintainer: Thearmking
+Maintainer: theanh69
 Depends: mobilesubstrate
 Filename: ./debfiles/com.theanh69.mbllvng.deb
 Size: 164822
@@ -45,15 +45,15 @@ SHA1: e8efb218d2a19bec9d2a382b82f182960eaf8582
 SHA256: 57d256e3cf45082a706ad7bb954bcd460d86515332fe9aef80d27a10aec28864
 SHA512: 170e62823a655d9ad0ef85fbc5e7d30959bf0fdcce6ff5414250f63722aab03c3fcbf90c277e34013ef282af61df24da46b73f0b5aa2efe4b985f9c8a6ae38e2
 Homepage: http://youtube.com/theanhofficial69
-Description: Hoạt động trên iOS11 - 12 - 13
+Description: Hack version 1.4.28 Hoạt động trên iOS11 - 12 - 13
 Name: Hack Mobile Legends VNG
-Author: Thearmking
+Author: theanh69
 
 Package: com.theanh69.mbllg
 Architecture: iphoneos-arm
-Version: 1.4.28.462.1
+Version: 1.0
 Section: Tweaks
-Maintainer: Thearmking
+Maintainer: theanh69
 Depends: mobilesubstrate
 Filename: ./debfiles/com.theanh69.mbllg.deb
 Size: 164902
@@ -62,6 +62,6 @@ SHA1: ef02aee7d0f5e40e0cfdb973cce979f26ccc3467
 SHA256: aaaa417a71e1296c34c34d7beac071101a32d89b344b5134002b45650cc44270
 SHA512: cfc7255722056e3425bb8dd69293e88f62ab9ac80aae14e9250c3363d96832227e7e2340e09dca0e262c1ddd8be963539e27e7af11a2ba7672b4b76df1a1b7c1
 Homepage: http://youtube.com/theanhofficial69
-Description: Hoạt động trên iOS11 - 12 - 13
+Description: Hack version 1.4.28.462.1 Hoạt động trên iOS11 - 12 - 13
 Name: Hack Mobile Legends Global
-Author: Thearmking
+Author: theanh69
