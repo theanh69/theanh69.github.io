@@ -11,4 +11,45 @@ Homepage: http://youtube.com/theanhofficial69
 Description: Hoạt động trên iOS11 - 12 - 13
 Name: Hack Liên Quân Mobile
 Author: Thearmking
-Depiction: http://theanh69.github.io/description.html?id=com.thearmking.vnaovjb
+
+Package: com.busmanl30.pubgg
+Architecture: iphoneos-arm
+Version: 0.15.0
+Section: Tweaks
+Maintainer: busmanl30
+Depends: mobilesubstrate
+Filename: ./debfiles/com.busmanl30.pubgg_iphoneos-arm.deb
+Size: 145548
+MD5sum: 51e198414deea0b6152b1f277e0c8873
+Homepage: http://youtube.com/theanhofficial69
+Description: Hoạt động trên iOS11 - 12 - 13
+Name: Hack PUBG Mobile Global
+Author: busmanl30
+
+Package: com.thearmking.mlbbvn
+Architecture: iphoneos-arm
+Version: 1.4.28
+Section: Tweaks
+Maintainer: Thearmking
+Depends: mobilesubstrate
+Filename: ./debfiles/com.thearmking.mlbbvn_iphoneos-arm.deb.deb
+Size: 164822
+MD5sum: 9fd16db48d2644ca84d7bdfc629d56fe
+Homepage: http://youtube.com/theanhofficial69
+Description: Hoạt động trên iOS11 - 12 - 13
+Name: Hack Mobile Legends VNG
+Author: Thearmking
+
+Package: com.thearmking.mll
+Architecture: iphoneos-arm
+Version: 1.4.28.462.1
+Section: Tweaks
+Maintainer: Thearmking
+Depends: mobilesubstrate
+Filename: ./debfiles/com.thearmking.mlbbvn_iphoneos-arm.deb.deb
+Size: 164902
+MD5sum: 66aa89f5ab793555e3b6b5deb978de7d
+Homepage: http://youtube.com/theanhofficial69
+Description: Hoạt động trên iOS11 - 12 - 13
+Name: Hack Mobile Legends Global
+Author: Thearmking
