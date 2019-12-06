@@ -4,9 +4,12 @@ Version: 1.32.1.4
 Section: Tweaks
 Maintainer: Thearmking
 Depends: mobilesubstrate
-Filename: ./debfiles/com.thearmking.vnaovjb_1.32.1.4_iphoneos-arm.deb
+Filename: ./debfiles/com.thearmking.vnaovjb_iphoneos-arm.deb
 Size: 162600
 MD5sum: d9fcb41e2ea66fc8e0f67c7d0cb1d709
+SHA1: 26b9bf661ef69c5d8b4e5f485074e66c5193493e
+SHA256: 9884caf54c8db6bb2aa3a729028f89b511daf328d01dbb1a4aa69870de48b7d5
+SHA512: 35179543727f70593452efa708dbb4c0c2b8b44a4be5308c6142d5f82f3269f5ee1f2e1bfe4ec26bf5f4836a09fc9e969a1c497e78cdb611609e25aa98fc9595
 Homepage: http://youtube.com/theanhofficial69
 Description: Hoạt động trên iOS11 - 12 - 13
 Name: Hack Liên Quân Mobile
@@ -21,6 +24,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.busmanl30.pubgg_iphoneos-arm.deb
 Size: 145548
 MD5sum: 51e198414deea0b6152b1f277e0c8873
+SHA1: 1a48dd3fe3804bc453d157b0df52326cabc1c81d
+SHA256: c0cd5ed56792ccd20c232cbc7dddaadbf84d985b2cbf3f292dc40a4c8bbb8903
+SHA512: 83cc7236eacc081199df5a6c1519e3b6e09319f1074584f1c0ed0fb00a734b4f96b39a026c52ece09c4eaa4b527aa49cbe4bd01b0cf2da5e26da72ef536c31c9
 Homepage: http://youtube.com/theanhofficial69
 Description: Hoạt động trên iOS11 - 12 - 13
 Name: Hack PUBG Mobile Global
@@ -35,6 +41,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.thearmking.mlbbvn_iphoneos-arm
 Size: 164822
 MD5sum: 9fd16db48d2644ca84d7bdfc629d56fe
+SHA1: e8efb218d2a19bec9d2a382b82f182960eaf8582
+SHA256: 57d256e3cf45082a706ad7bb954bcd460d86515332fe9aef80d27a10aec28864
+SHA512: 170e62823a655d9ad0ef85fbc5e7d30959bf0fdcce6ff5414250f63722aab03c3fcbf90c277e34013ef282af61df24da46b73f0b5aa2efe4b985f9c8a6ae38e2
 Homepage: http://youtube.com/theanhofficial69
 Description: Hoạt động trên iOS11 - 12 - 13
 Name: Hack Mobile Legends VNG
@@ -49,6 +58,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.thearmking.mll_iphoneos-arm.deb
 Size: 164902
 MD5sum: 66aa89f5ab793555e3b6b5deb978de7d
+SHA1: ef02aee7d0f5e40e0cfdb973cce979f26ccc3467
+SHA256: aaaa417a71e1296c34c34d7beac071101a32d89b344b5134002b45650cc44270
+SHA512: cfc7255722056e3425bb8dd69293e88f62ab9ac80aae14e9250c3363d96832227e7e2340e09dca0e262c1ddd8be963539e27e7af11a2ba7672b4b76df1a1b7c1
 Homepage: http://youtube.com/theanhofficial69
 Description: Hoạt động trên iOS11 - 12 - 13
 Name: Hack Mobile Legends Global
