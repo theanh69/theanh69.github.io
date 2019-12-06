@@ -4,7 +4,7 @@ Version: 1.32.1.4
 Section: Tweaks
 Maintainer: theanh69
 Depends: mobilesubstrate
-Filename: ./debfiles/com.theanh69.vnaovjb_1.32.1.4_iphoneos-arm
+Filename: ./debfiles/com.theanh69.vnaovjb_1.32.1.4_iphoneos-arm.deb
 Size: 214226
 MD5sum: 95a0eebf83731d77f11362b3f07259e8
 SHA1: 02f0c0e41d7c59e59e20fbd3cf347026713d48b18
