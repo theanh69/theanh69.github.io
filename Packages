@@ -1,9 +1,10 @@
 Package: com.thearmking.vnaovjb
+Architecture: iphoneos-arm
 Version: 1.32.1.4
 Section: Tweaks
 Maintainer: Thearmking
-Architecture: iphoneos-arm
-Filename: ./debfiles/
+Depends: mobilesubstrate
+Filename: ./debfiles/com.thearmking.vnaovjb_1.32.1.4_iphoneos-arm.deb
 Size: 532
 MD5sum: d9fcb41e2ea66fc8e0f67c7d0cb1d709
 SHA1: 26b9bf661ef69c5d8b4e5f485074e66c5193493e
@@ -13,4 +14,4 @@ Homepage: http://youtube.com/theanhofficial69
 Description: Hack Garena Lien Quan 1.32.1.4
 Name: Garena Lien Quan Mobile - JB Mod
 Author: Thearmking
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adblock
+Depiction: theanh69's
