@@ -32,7 +32,7 @@ Version: 1.4.28
 Section: Tweaks
 Maintainer: Thearmking
 Depends: mobilesubstrate
-Filename: ./debfiles/com.thearmking.mlbbvn_iphoneos-arm.deb.deb
+Filename: ./debfiles/com.thearmking.mlbbvn_iphoneos-arm
 Size: 164822
 MD5sum: 9fd16db48d2644ca84d7bdfc629d56fe
 Homepage: http://youtube.com/theanhofficial69
@@ -46,7 +46,7 @@ Version: 1.4.28.462.1
 Section: Tweaks
 Maintainer: Thearmking
 Depends: mobilesubstrate
-Filename: ./debfiles/com.thearmking.mlbbvn_iphoneos-arm.deb.deb
+Filename: ./debfiles/com.thearmking.mll_iphoneos-arm.deb
 Size: 164902
 MD5sum: 66aa89f5ab793555e3b6b5deb978de7d
 Homepage: http://youtube.com/theanhofficial69
