@@ -1,10 +1,10 @@
-Package: com.thearmking.vnaovjb
+Package: com.theanh69.lqm
 Architecture: iphoneos-arm
 Version: 1.32.1.4
 Section: Tweaks
 Maintainer: Thearmking
 Depends: mobilesubstrate
-Filename: ./debfiles/com.thearmking.vnaovjb_iphoneos-arm.deb
+Filename: ./debfiles/com.theanh69.lqm.deb
 Size: 162600
 MD5sum: d9fcb41e2ea66fc8e0f67c7d0cb1d709
 SHA1: 26b9bf661ef69c5d8b4e5f485074e66c5193493e
@@ -15,13 +15,13 @@ Description: Hoạt động trên iOS11 - 12 - 13
 Name: Hack Liên Quân Mobile
 Author: Thearmking
 
-Package: com.busmanl30.pubgg
+Package: com.theanh69.pubgglobal
 Architecture: iphoneos-arm
 Version: 0.15.0
 Section: Tweaks
 Maintainer: busmanl30
 Depends: mobilesubstrate
-Filename: ./debfiles/com.busmanl30.pubgg_iphoneos-arm.deb
+Filename: ./debfiles/com.theanh69.pubgglobal.deb
 Size: 145548
 MD5sum: 51e198414deea0b6152b1f277e0c8873
 SHA1: 1a48dd3fe3804bc453d157b0df52326cabc1c81d
@@ -32,13 +32,13 @@ Description: Hoạt động trên iOS11 - 12 - 13
 Name: Hack PUBG Mobile Global
 Author: busmanl30
 
-Package: com.thearmking.mlbbvn
+Package: com.theanh69.mbllvng
 Architecture: iphoneos-arm
 Version: 1.4.28
 Section: Tweaks
 Maintainer: Thearmking
 Depends: mobilesubstrate
-Filename: ./debfiles/com.thearmking.mlbbvn_iphoneos-arm
+Filename: ./debfiles/com.theanh69.mbllvng.deb
 Size: 164822
 MD5sum: 9fd16db48d2644ca84d7bdfc629d56fe
 SHA1: e8efb218d2a19bec9d2a382b82f182960eaf8582
@@ -49,13 +49,13 @@ Description: Hoạt động trên iOS11 - 12 - 13
 Name: Hack Mobile Legends VNG
 Author: Thearmking
 
-Package: com.thearmking.mll
+Package: com.theanh69.mbllg
 Architecture: iphoneos-arm
 Version: 1.4.28.462.1
 Section: Tweaks
 Maintainer: Thearmking
 Depends: mobilesubstrate
-Filename: ./debfiles/com.thearmking.mll_iphoneos-arm.deb
+Filename: ./debfiles/com.theanh69.mbllg.deb
 Size: 164902
 MD5sum: 66aa89f5ab793555e3b6b5deb978de7d
 SHA1: ef02aee7d0f5e40e0cfdb973cce979f26ccc3467
