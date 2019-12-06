@@ -1,8 +1,11 @@
-Origin: theanh69's Official Repo
+Origin: theanh69' Official Repo
 Label: theanh69
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Codename: theanh69
+Architecture: iphoneos-arm
 Components: main
-Description: theanh69's Official Repo
+Description: theanh69
+MD5Sum:
+ 7c464e2b883a410aa2ced3bd02beec24 487 Packages
+ 16b9fe9afa412c157fa2c4c21796db75 348 Packages.bz2
