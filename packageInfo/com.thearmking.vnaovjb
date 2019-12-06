@@ -1,3 +1,9 @@
 {
-	"desc_long": "- Hack Hoạt Động trên iOS 11 - 12 - 13.<br>- Menu Hack: Only Map Hack.<br>.",
+	"name": "Hack Lien Quan",
+	"desc_short": "Hack Lien Quanp",
+	"desc_long": "Hack Map Liên Quân Phiên Bản 1.32.1.4.<br><br>No Options To Configure.",
+	"compatitle": "iOS 11 - iOS 12 - iOS 13",
+	"changelog": "<strong>1.32.1.4	</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/xcqq6D3.jpg' target='_blank'><img width=95% src='https://i.imgur.com/xcqq6D3.jpg'/></a><br></div>",
+	"open": true,
 }
