@@ -1,18 +1,18 @@
 Package: com.theanh69.vnaovjb
 Architecture: iphoneos-arm
-Version: v1.32.1.4
+Version: 1.0
 Section: Tweaks
 Maintainer: theanh69
 Depends: mobilesubstrate
-Filename: ./debfiles/com.theanh69.vnaovjb_v1.32.1.4_iphoneos-arm.deb
-Size: 214232
-MD5sum: 9d6ea6669de4a077e65d05c0c451a04c
-SHA1: e9e9d4d39597b28806a22a055879ed1de61d49b0
-SHA256: d3ecfe26a2e46cd952da0447d6fb0a9a3a7494dfe38e18785028f4b8d30c0a27
-SHA512: b3318d80c681787769ef71df594430ebe15f48005d2188dbd322e1064955270c9b1f7e1bae7f21de2d76770dcaabc3252781d764a491be41325fd2cb4eb458e9
+Filename: ./debfiles/com.theanh69.vnaovjb_1.0_iphoneos-arm.deb
+Size: 214254
+MD5sum: 24d750f09de7b00111f473cd4cbd396c
+SHA1: 1cf338ba25d6055916ebef883f2171636d2b1b40
+SHA256: bc0c439b19932e6dd055dcd2673330de6fa2ec57214b31642dde5320b63a9ae1
+SHA512: 8487801eb94e7381cc2e23f34fd3b5b39c6afcb101c4d032d9af867e5e0bebbaed3cc33e216c50712e2d5ceea44a9a642b34aa0dca4756c8a9a4305160ed3bad
 Homepage: http://youtube.com/theanhofficial69
-Description: Hoạt động trên iOS11 - 12 - 13
-Name: Hack Liên Quân Mobile
+Description: Hack version 1.32.1.4 - Hoạt động trên iOS11 - 12 - 13
+Name: Hack Liên Quân Mobile (v1.32.1.4)
 Author: TheArmking
 
 Package: com.theanh69.pubgg
