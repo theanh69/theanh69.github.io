@@ -34,16 +34,16 @@ Author: busmanl30
 
 Package: com.theanh69.mlbbvn
 Architecture: iphoneos-arm
-Version: 1.4.28
+Version: 1.4.36
 Section: Tweaks
 Maintainer: theanh69
 Depends: mobilesubstrate
-Filename: ./debfiles/com.theanh69.mlbbvn_1.4.28_iphoneos-arm.deb
-Size: 217254
-MD5sum: d664ce540c3142e02e5066e4691bd9e6
-SHA1: 1ab7ac7fc4f811afbf63d05bb8b94d97f28cc82c
-SHA256: ac83250c67987326450a51d95633f8a9ad669e802849b0edc821676bcce31184
-SHA512: e6680a8b9af272514d1f221b179ef7705932bd4f0f3a635eefc990f6de6fe7280943f4e7189521c58f2612205b46f27a139921f2824ed6d055d42c2e0b4ed16b
+Filename: ./debfiles/com.theanh69.mlbbvn_1.4.36_iphoneos-arm.deb
+Size: 165004
+MD5sum: 2d22ab8d1a00607ab6004de368ad0cc5
+SHA1: 39c4281b6defc5f6600721bd2009f08b009df63f
+SHA256: c284df00daced5bc41f1b418dd16fad208bc13dbc62ef18be08cb5895b8bf85e
+SHA512: 11b62cf00e2758620c16433826404ece499abd868d0145710baab0d43607c13e24fb70f4416d3f86548c747d697f6666e29b617cb363f6dcf789425505bff5b3
 Homepage: http://youtube.com/theanhofficial69
 Description: Hoạt động trên iOS11 - 12 - 13
 Name: Hack Mobile Legends VNG
