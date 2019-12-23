@@ -39,11 +39,11 @@ Section: Tweaks
 Maintainer: theanh69
 Depends: mobilesubstrate
 Filename: ./debfiles/com.theanh69.mlbbvn_1.4.36_iphoneos-arm.deb
-Size: 165004
-MD5sum: 2d22ab8d1a00607ab6004de368ad0cc5
-SHA1: 39c4281b6defc5f6600721bd2009f08b009df63f
-SHA256: c284df00daced5bc41f1b418dd16fad208bc13dbc62ef18be08cb5895b8bf85e
-SHA512: 11b62cf00e2758620c16433826404ece499abd868d0145710baab0d43607c13e24fb70f4416d3f86548c747d697f6666e29b617cb363f6dcf789425505bff5b3
+Size: 217216
+MD5sum: e9b08066754d26b6af9470688bcd4921
+SHA1: 92837df091667e56f971c270a504c3161f56ca88
+SHA256: d79795969c10a7063e1339696329a65fa770cbfe9e4713575d8b9cf905b3cb1d
+SHA512: dc7286348608841d6257555be8be552834822c4e8dbbb193b35da5bf74f0186ab9cc0e7b5f6e5b9eb1702f7ddc6f93229be95d8105228ca121176f342bc08e62
 Homepage: http://youtube.com/theanhofficial69
 Description: Hoạt động trên iOS11 - 12 - 13
 Name: Hack Mobile Legends VNG
